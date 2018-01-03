@@ -1,0 +1,18 @@
+{
+  "name": "jest-jsdom-react-console-issues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:1": "jest",
+    "test:2": "jest --config ./jest.custom-config.js"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.0.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
